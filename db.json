@@ -1,0 +1,23 @@
+{
+  "equipes": [
+    {
+      "nom": "PSG",
+      "adresse": "nouvelle adresse",
+      "id": 1
+    },
+    {
+      "nom": "Calais",
+      "adresse": "Calais 62 000",
+      "id": 2
+    }
+  ],
+  "joueurs": [
+    {
+      "nom": "Neymar",
+      "poste": "AD",
+      "nationalite": "Brazil",
+      "equipeId": 1,
+      "id": 1
+    }
+  ]
+}
