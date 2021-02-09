@@ -1,23 +1,31 @@
 {
-  "equipes": [
+  "types": [
     {
-      "nom": "PSG",
-      "adresse": "nouvelle adresse",
+      "nom": "Feu",
       "id": 1
     },
     {
-      "nom": "Calais",
-      "adresse": "Calais 62 000",
+      "nom": "Eau",
       "id": 2
-    }
-  ],
-  "joueurs": [
+    },
     {
-      "nom": "Neymar",
-      "poste": "AD",
-      "nationalite": "Brazil",
-      "equipeId": 1,
-      "id": 1
+      "nom": "Plante",
+      "id": 3
+    }
+
+  ],
+  "pokemon": [
+    {
+      "nom": "Salamèche",
+      "idTypes": 1
+    },
+    {
+      "nom": "Carapuce",
+      "idTypes": 2
+    },
+    {
+      "nom": "Bulbizarre",
+      "idTypes": 3
     }
   ]
 }
